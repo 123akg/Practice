@@ -1,0 +1,29 @@
+INFO  | 2020-09-21 00:56:12 | [main] FirstMaven.App (App.java:18) - Hello World Will Be Printed On Info
+WARN  | 2020-09-21 00:56:12 | [main] FirstMaven.App (App.java:19) - Hello World Will Be Printed On Warn
+ERROR | 2020-09-21 00:56:12 | [main] FirstMaven.App (App.java:20) - Hello World Will Be Printed On Error
+FATAL | 2020-09-21 00:56:12 | [main] FirstMaven.App (App.java:21) - Hello World Will Be Printed On Fatal
+INFO  | 2020-09-21 00:56:12 | [main] FirstMaven.App (App.java:22) - Appending string: Hello World.
+DEBUG | 2020-09-21 00:56:42 | [main] FirstMaven.App (App.java:17) - Hello World Will Be Printed On Debug
+INFO  | 2020-09-21 00:56:42 | [main] FirstMaven.App (App.java:18) - Hello World Will Be Printed On Info
+WARN  | 2020-09-21 00:56:42 | [main] FirstMaven.App (App.java:19) - Hello World Will Be Printed On Warn
+ERROR | 2020-09-21 00:56:42 | [main] FirstMaven.App (App.java:20) - Hello World Will Be Printed On Error
+FATAL | 2020-09-21 00:56:42 | [main] FirstMaven.App (App.java:21) - Hello World Will Be Printed On Fatal
+INFO  | 2020-09-21 00:56:42 | [main] FirstMaven.App (App.java:22) - Appending string: Hello World.
+INFO  | 2020-09-21 00:57:25 | [main] FirstMaven.App (App.java:18) - Hello World Will Be Printed On Info
+WARN  | 2020-09-21 00:57:25 | [main] FirstMaven.App (App.java:19) - Hello World Will Be Printed On Warn
+ERROR | 2020-09-21 00:57:25 | [main] FirstMaven.App (App.java:20) - Hello World Will Be Printed On Error
+FATAL | 2020-09-21 00:57:25 | [main] FirstMaven.App (App.java:21) - Hello World Will Be Printed On Fatal
+INFO  | 2020-09-21 00:57:25 | [main] FirstMaven.App (App.java:22) - Appending string: Hello World.
+INFO  | 2020-09-21 00:57:50 | [main] FirstMaven.App (App.java:18) - Hello World Will Be Printed On Info
+WARN  | 2020-09-21 00:57:50 | [main] FirstMaven.App (App.java:19) - Hello World Will Be Printed On Warn
+ERROR | 2020-09-21 00:57:50 | [main] FirstMaven.App (App.java:20) - Hello World Will Be Printed On Error
+FATAL | 2020-09-21 00:57:50 | [main] FirstMaven.App (App.java:21) - Hello World Will Be Printed On Fatal
+INFO  | 2020-09-21 00:57:50 | [main] FirstMaven.App (App.java:22) - Appending string: Hello World.
+INFO  | 2020-09-21 00:58:09 | [main] FirstMaven.App (App.java:18) - Hello World Will Be Printed On Info
+WARN  | 2020-09-21 00:58:09 | [main] FirstMaven.App (App.java:19) - Hello World Will Be Printed On Warn
+ERROR | 2020-09-21 00:58:09 | [main] FirstMaven.App (App.java:20) - Hello World Will Be Printed On Error
+FATAL | 2020-09-21 00:58:09 | [main] FirstMaven.App (App.java:21) - Hello World Will Be Printed On Fatal
+INFO  | 2020-09-21 00:58:09 | [main] FirstMaven.App (App.java:22) - Appending string: Hello World.
+WARN  | 2020-09-21 00:58:49 | [main] FirstMaven.App (App.java:19) - Hello World Will Be Printed On Warn
+ERROR | 2020-09-21 00:58:49 | [main] FirstMaven.App (App.java:20) - Hello World Will Be Printed On Error
+FATAL | 2020-09-21 00:58:49 | [main] FirstMaven.App (App.java:21) - Hello World Will Be Printed On Fatal
